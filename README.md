@@ -1,16 +1,27 @@
-## Hi there 👋
+<div align="center">
+  <h1>Heyyy! I'm nicmic ✨</h1>
+</div>
 
-<!--
-**nic-mic/nic-mic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+--- 
 
-Here are some ideas to get you started:
+<div align="center">
+  <span style="font-size: 20px; font-weight: bold; color: #FF69B4;">
+    4th Semester Computer Engineering - UNIFEI
+  </span>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<div align="center">
+  <span style="font-size: 24px; font-weight: bold; color: #00FFFF;">
+    Languages
+  </span>
+</div>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,python&theme=dark&perline=4" alt="C, C++, Java, Python Icons" />
+  </a>
+</p>
+
+---
