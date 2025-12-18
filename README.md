@@ -23,7 +23,7 @@ Currently pursuing <strong>Computer Engineering at UNIFEI</strong>, deeply commi
   <img src="https://img.shields.io/badge/💻_Passion-Praical%20Problem%20Solving-d90368?style=for-the-badge"/>
 </p>
 <p align="center">
-I believe great code requires great communication. Excel in <strong>teamwork</strong>, <strong>communication</strong>, and agile problem-solving.
+I believe great code requires great communication. Excelent in <strong>teamwork</strong>, <strong>communication</strong>, and <strong>agile probelm-solving</strong>.
 </p>
 
 <br>
