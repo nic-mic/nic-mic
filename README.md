@@ -20,7 +20,7 @@ Currently pursuing <strong>Computer Engineering at UNIFEI</strong>, deeply commi
 <br>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/💻_Passion-Praical%20Problem%20Solving-d90368?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/💻_Passion-Pratical%20Problem%20Solving-d90368?style=for-the-badge"/>
 </p>
 <p align="center">
 I believe great code requires great communication. Excelent in <strong>teamwork</strong>, <strong>communication</strong>, and <strong>agile probelm-solving</strong>.
@@ -35,15 +35,14 @@ I believe great code requires great communication. Excelent in <strong>teamwork<
 To turn lines of code into efficient, real-world solutions.
 </p>
 
-</table>
 
 ---
 ### GitHub Stats
 
 <div align="center">
   <a href="https://github.com/nic-mic">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nic-mic&show_icons=true&theme=tokyonight"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nic-mic&layout=compact&theme=tokyonight"/>
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=nic-mic&show_icons=true&theme=tokyonight"/>
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nic-mic&layout=compact&theme=tokyonight"/>
   </a>
 </div>
 
@@ -75,9 +74,10 @@ To turn lines of code into efficient, real-world solutions.
   <a href="mailto:nicmicheletti10@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Email" />
   </a>
-  <a href="https://instagram.com//nic_mique/" target="_blank">
+  <a href="https://instagram.com/nic_mique/" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram&theme=dark" alt="Instagram" />
   </a>
+  </p>
 
 
   ---
